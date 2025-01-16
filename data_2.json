@@ -1,0 +1,82 @@
+[
+  {
+    "id": 10,
+    "character_name": "Itachi Uchiha",
+    "from_anime": "Naruto",
+    "quotes_idn": "Ketika kamu mencapai titik keputusasaan yang sebenarnya, itulah saat kamu benar-benar bisa tumbuh.",
+    "quotes_en": "When you hit the point of true desperation, that's when you can truly grow.",
+    "image_link": "https://www.dropbox.com/scl/fi/qsb1fkf2rd868vqk8f0cv/itachi_uchiha_2.jpg?rlkey=khwyd4yk9mbtq89iouzoaupfd&st=2p8ijtdh&raw=1"
+  },
+  {
+    "id": 11,
+    "character_name": "Yukine",
+    "from_anime": "Noragami",
+    "quotes_idn": "Kamu tidak boleh menyerah pada hidup, tidak peduli bagaimana perasaanmu. Tidak peduli seberapa putus asa perasaanmu, selalu ada jalan keluar.",
+    "quotes_en": "You should never give up on life, no matter how you feel. No matter how hopeless you feel, there is always a way out.",
+    "image_link": "https://www.dropbox.com/scl/fi/mxs1no2hj6yz5eyvqr9a1/yukine.jpg?rlkey=o39jjc7r4t4g8cbhc24qi0e05&st=lxzldvvl&raw=1"
+  },
+  {
+    "id": 12,
+    "character_name": "Itachi Uchiha",
+    "from_anime": "Naruto",
+    "quotes_idn": "Hidup orang tidak berakhir saat mereka mati, itu berakhir saat mereka kehilangan keyakinan.",
+    "quotes_en": "People's lives don't end when they die, it ends when they lose faith.",
+    "image_link": "https://www.dropbox.com/scl/fi/qsb1fkf2rd868vqk8f0cv/itachi_uchiha_2.jpg?rlkey=khwyd4yk9mbtq89iouzoaupfd&st=awd71i6b&raw=1"
+  },
+  {
+    "id": 13,
+    "character_name": "Sakura Haruna",
+    "from_anime": "Naruto",
+    "quotes_idn": "Kekuatan sejati datang dari melindungi orang yang kamu sayangi.",
+    "quotes_en": "True strength comes from protecting those you care about.",
+    "image_link": "https://www.dropbox.com/scl/fi/vmmgfcyq5948h31odgwan/sakura_haruno.jpg?rlkey=cxzvsiata46i3oo3rbmgxqz0y&st=lf9s4892&raw=1"
+  },
+  {
+    "id": 14,
+    "character_name": "Roy Mustang",
+    "from_anime": "Fullmetal Alhemist Brotherhood",
+    "quotes_idn": "Satu-satunya orang yang bisa memberitahumu bahwa kamu tidak bisa melakukan sesuatu adalah dirimu sendiri.",
+    "quotes_en": "The only person who can tell you you can't do something is yourself.",
+    "image_link": "https://www.dropbox.com/scl/fi/om5adcrsbxb39ubz2co7g/roy_mustang_2.jpg?rlkey=hb6u7asxsfmc632m4dorgotko&st=lqyb9be6&raw=1"
+  },
+  {
+    "id": 15,
+    "character_name": "All Might",
+    "from_anime": "My Hero Academia",
+    "quotes_idn": "Kemuliaan terbesar dalam hidup bukanlah tidak pernah jatuh, tetapi bangkit setiap kali kita jatuh.",
+    "quotes_en": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "image_link": "https://www.dropbox.com/scl/fi/23vuk6ywxb0gvvx8a1mw2/all_might.jpg?rlkey=zehezkkhqcc36t2rveb6p8wp9&st=kl6uqytj&raw=1"
+  },
+  {
+    "id": 16,
+    "character_name": "Roronoa Zoro",
+    "from_anime": "One Piece",
+    "quotes_idn": "Terkadang kamu harus mundur selangkah untuk maju.",
+    "quotes_en": "Sometimes you have to take a step back to move forward.",
+    "image_link": "https://www.dropbox.com/scl/fi/aczpfe9tmud5ehgtc3s42/zoro.jpg?rlkey=b9wu47bwdmydm0xk39nju4nsj&st=c0mvzxgf&raw=1"
+  },
+  {
+    "id": 17,
+    "character_name": "Lulu",
+    "from_anime": "Space For The Unbound",
+    "quotes_idn": "Dunia yang paling sempurna adalah dunia dengan ketidaksempurnaan.",
+    "quotes_en": "The most perfect world is a world with imperfections.",
+    "image_link": "https://www.dropbox.com/scl/fi/jkz2klijxa0g9mmy3saff/lulu.jpg?rlkey=xaphrsuk7lc8qew1exm1zrghu&st=l389u4fm&raw=1"
+  },
+  {
+    "id": 18,
+    "character_name": "Monkey .D Luffy",
+    "from_anime": "One Piece",
+    "quotes_idn": "Aku tidak akan pernah menyerah. Aku tidak akan pernah berhenti berjuang. Aku tidak akan pernah membiarkan siapa pun memberitahuku apa yang bisa dan tidak bisa aku lakukan.",
+    "quotes_en": "I will never give up. I will never stop fighting. I will never let anyone tell me what I can and cannot do",
+    "image_link": "https://www.dropbox.com/scl/fi/e9othd014xwj8cue6p7yp/luffy.jpg?rlkey=bgevvwlq1b9lva5rhr5dofw6h&st=ktey4qor&raw=1"
+  },
+  {
+    "id": 19,
+    "character_name": "Guts",
+    "from_anime": "Berserk",
+    "quotes_idn": "Satu-satunya cara untuk memutus siklus rasa sakit adalah dengan berjuang.",
+    "quotes_en": "The only way to break a cycle of pain is to fight.",
+    "image_link": "https://www.dropbox.com/scl/fi/31l6kucvqd428be2gh8l5/guts.jpg?rlkey=uysuabeqadecl4lht7faxc2zp&st=4thqkp1m&raw=1"
+  }
+]

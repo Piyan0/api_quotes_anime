@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "character_name": "Edward Elric",
+    "from_anime": "Fullmetal Alchemist Brotherhood",
+    "quotes_idn": "Yang penting bukanlah nilai kekayaan hidup seseorang. Tetapi kekhawatiran sehari-hari, kemenangan pribadi, dan perayaan hidup... dan cinta!",
+    "quotes_en": "It's not the net worth of one's life that's important. It is the day to day concerns, the personal victories, and the celebration of life and love!",
+    "image_link": "https://www.dropbox.com/scl/fi/gbregu6t1e7a64hdxbi26/edward_elric.jpg?rlkey=vtym25jhdm5h2cl5kka8l5l3t&st=yi6b5v6g&raw=1"
+  },
+  {
+    "id": 1,
+    "character_name": "Gildarts Clive",
+    "from_anime": "Fairy Tail",
+    "quotes_idn": "Ketakutan bukanlah kejahatan. Itu memberitahumu apa kelemahanmu. Dan setelah kamu tahu kelemahanmu, kamu bisa menjadi lebih kuat dan lebih baik.",
+    "quotes_en": "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder.",
+    "image_link": "https://www.dropbox.com/scl/fi/f9rfg4wq2ihxobvpqfftg/gildarts_clive.jpg?rlkey=5c8ik9zq1pijnyadwy75urddg&st=furoo9fu&raw=1"
+  },
+  {
+    "id": 2,
+    "character_name": "Kenshin Himura",
+    "from_anime": "Rurouni Kenshin",
+    "quotes_idn": "Kamu tidak selalu bisa memegang hal-hal yang penting. Dengan melepaskannya, kita mendapatkan sesuatu yang lain.",
+    "quotes_en": "You can't always hold on to the things that are important. By letting them go we gain something else.",
+    "image_link": "https://www.dropbox.com/scl/fi/o86acwyhb95w87y40xif6/kenshin_himura.jpg?rlkey=s0cymrwlqo0cvcvpvowxot0x8&st=jueljj6i&raw=1"
+  },
+  {
+    "id": 3,
+    "character_name": "Yato",
+    "from_anime": "Noragami",
+    "quotes_idn": "Bahkan jika hal-hal menyakitkan dan sulit, orang harus menghargai arti kehidupan itu sendiri.",
+    "quotes_en": "Even if things are painful and tough, people should appreciate what it means to be alive at all.",
+    "image_link": "https://www.dropbox.com/scl/fi/o6f47c95cor308r6nrafn/yato.jpg?rlkey=wm5mww7gj26fn6o9r9nw56hhk&st=a4670n27&raw=1"
+  },
+  {
+    "id": 4,
+    "character_name": "Shanks",
+    "from_anime": "One Piece",
+    "quotes_idn": "Jika kamu ingin membuat orang lain bermimpi, kamu harus mulai dengan percaya pada mimpi itu sendiri!",
+    "quotes_en": "If you wanna make people dream, you've gotta start by believing in that dream yourself!",
+    "image_link": "https://www.dropbox.com/scl/fi/4t610hxqkqxgx4q09xiyx/shanks.jpg?rlkey=i7882fd7eu49wn81fnjyrzd01&st=83i3bi2x&raw=1"
+  },
+  {
+    "id": 5,
+    "character_name": "Madoka Kaname",
+    "from_anime": "Puella Magi Madoka Magica",
+    "quotes_idn": "Jangan lupa. Selalu, di suatu tempat, seseorang sedang berjuang untukmu. Selama kamu mengingatnya, kamu tidak sendirian.",
+    "quotes_en": "Don't forget. Always, somewhere, someone is fighting for you. As long as you remember her, you are not alone.",
+    "image_link": "https://www.dropbox.com/scl/fi/px3w61w1b5gougk5el80m/madoka_kaname.jpg?rlkey=ce8yj4njyj7k2r6t2wkrwz4ug&st=6g908xec&raw=1"
+  },
+  {
+    "id": 6,
+    "character_name": "Himura Kenshin",
+    "from_anime": "Rurouni Kenshin",
+    "quotes_idn": "Sesuatu yang kamu hilangkan, akan kamu temukan lagi. Tapi apa yang kamu buang, tidak akan pernah kembali.",
+    "quotes_en": "Whatever you lose, you'll find it again. But what you throw away you'll never get it back.",
+    "image_link": "https://www.dropbox.com/scl/fi/aqm5hc2pl69ux5louyj80/himura_kenshin.jpg?rlkey=j7cpg23zm3tf7et1ci22b9jkw&st=m6289s30&raw=1"
+  },
+  {
+    "id": 7,
+    "character_name": "Sanji",
+    "from_anime": "One Piece",
+    "quotes_idn": "Bahkan anak bodoh pun bisa tumbuh dengan benar, ketika dia belajar apa yang benar-benar penting.",
+    "quotes_en": "Even a foolish child can grow up in a right way, when he learns what is truly important.",
+    "image_link": "https://www.dropbox.com/scl/fi/l6c8s6hzvvtnt1ha6ck9c/sanji.jpg?rlkey=oclzyrdm9jbues08uqr5h5qr9&st=0nv978zg&raw=1"
+  },
+  {
+    "id": 8,
+    "character_name": "Rock Lee",
+    "from_anime": "Naruto",
+    "quotes_en": "A dropout will beat a genius through hard work.",
+    "quotes_idn": "Seorang yang putus sekolah akan mengalahkan seorang jenius melalui kerja keras",
+    "image_link": "https://www.dropbox.com/scl/fi/cqqpkfrxs4uiax23zayp2/rock_lee.jpg?rlkey=8cewq38i0s1l8lswto7aopo0e&st=p9glxd9f&raw=1"
+  },
+  {
+    "id": 9,
+    "character_name": "Asta",
+    "from_anime": "Black Clover",
+    "quotes_idn": "Bukan kekuatan yang kamu miliki. Tetapi bagaimana cara kamu menggunakannya.",
+    "quotes_en": "It's not the powers that you have. It's how you use them.",
+    "image_link": "https://www.dropbox.com/scl/fi/x06e7cp4x5uh65uespntg/asta.jpg?rlkey=pbha7yhnag5w41y9uijf6do2t&st=4765i7zi&raw=1"
+  }
+]

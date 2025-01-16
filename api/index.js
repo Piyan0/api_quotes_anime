@@ -1,6 +1,7 @@
 const express = require("express")
+const path= require('path')
 const cors = require("cors")
-const get_data = require("./get_data.js")
+const get_data = require(path.join(__dirname, '../', 'get_data.js'))
 
 const app = express()
 app.use(
@@ -15,5 +16,8 @@ app.get("/", (req, res) => {
 })
 
 app.listen(port, () => {
+  
   console.log("Server is running on port: ", port)
 })
+
+module.exports= app

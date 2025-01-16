@@ -6,7 +6,7 @@ const get_data = require(path.join(__dirname, '../', 'get_data.js'))
 const app = express()
 app.use(
   cors({
-    origin: ["http://localhost:8158", "http://localhost:8080", "https://piyan0.github.io/quotes_anime"]
+    origin: ["http://localhost:8158", "http://localhost:8080", "https://piyan0.github.io"]
   })
 )
 const port = 5000
